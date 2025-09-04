@@ -9,7 +9,7 @@
 <body>
  <header>
 
-<h1>Portfólio de Maria Silva</h1>
+<h1>Portfólio de Sophia Kauffmann</h1>
 <p>Estudante de desenvolvimento web — HTML, CSS e JavaScript.</p>
 <nav aria-label="Navegação principal">
 <ul>
